@@ -204,7 +204,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/o
 
 
 ```
-apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/AMiR-SPB/6TO4-PrivateIP_multipleSERVERS/main/6to4.sh --ipv4)
+apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/Azumi87/6TO4-PrivateIP_multipleSERVERS/main/6to4.sh --ipv4)
 ```
 
 
@@ -223,7 +223,3 @@ apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/AMiR-SP
 
 -----------------------------------------------------
 
-![youtube-131994968075841675](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/24202a92-aff2-4079-a6c2-9db14cd0ecd1)
-**ویدیوی آموزش**
-
------------------------------------------
